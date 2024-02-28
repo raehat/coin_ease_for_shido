@@ -3,5 +3,5 @@ CoinEase is a beginner-friendly app built on Shido Network that makes it easy fo
 
 # Deployments related to Shido Network
 
-EthEscrow.sol 0xD21dD516F1331303798C06a73e8FC98E5f2a9072
+EthEscrow.sol 0xD21dD516F1331303798C06a73e8FC98E5f2a9072  
 TokenExchange.sol 0x4b2d2C609a9dCCe395E779Cbf33B22A1c088C4e3
